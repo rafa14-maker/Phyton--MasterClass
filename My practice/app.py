@@ -120,4 +120,7 @@ parser.add_argument(
 args = parser.parse_args()
 msg = f"hello {args.name}!"
 
-print(msg)
+# print(msg)
+
+# for x in range(2, 100, 2):
+#     print(x)
